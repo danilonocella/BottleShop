@@ -1,0 +1,48 @@
+{
+    "products": [
+      {
+        "id": 301,
+        "brand": "Isaac",
+        "size": "12x330ml btl",
+        "description": "Produced from locally grown New Zealand apples, Isaac's Cider provides a crisp and refreshing taste.",
+        "keywords": [
+          "Isaac", "New Zealand", "apples", "crisp"
+        ],
+        "image": "cider-1.png",
+        "price": 27.99
+      },
+      {
+        "id": 302,
+        "brand": "Rekorderlig Strawberry & Lime",
+        "size": "500ml btl",
+        "description": "Made from the purest Swedish spring water, Rekorderlig Strawberry - Lime Cider was the first to explore this unique flavour combination. Enjoy served over ice with fresh mint leaves or real strawberries and a wedge of lime for a fresh, zesty experience.",
+        "keywords": [
+          "Rekorderlig", "Sweden", "Strawberry", "Lime"
+        ],
+        "image": "cider-2.png",
+        "price": 6.99
+      },
+      {
+        "id": 303,
+        "brand": "Somersby",
+        "size": "10x330ml Cans",
+        "description": "Somersby is a premium cider that has earned a reputation for spreading joy and sunny togetherness where ever it is served and attracting curious and open-minded people from all over the world.",
+        "keywords": [
+          "Somersby", "Denmark", "apple"
+        ],
+        "image": "cider-3.png",
+        "price": 22.99
+      },
+      {
+        "id": 304,
+        "brand": "Mac's Isaac Cider",
+        "size": "6x330ml btl",
+        "description": "Produced from locally grown New Zealand apples, Mac's Isaac's Cider provides a crisp and refreshing taste.",
+        "keywords": [
+          "Isaac Cider", "New Zealand", "apple"
+        ],
+        "image": "cider-4.png",
+        "price": 15.99
+      }
+    ]
+  }

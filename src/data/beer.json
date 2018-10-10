@@ -1,0 +1,103 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "brand": "Heineken",
+        "size": "12x330ml btl",
+        "description": "Originally brewed in the Netherlands since 1873, Heineken is now the world's number one premium and most global beer brand. 100% pilsner malts are carefully blended with Europe's finest hops and the famous 'A' yeast, giving Heineken it's truly distinctive yet mild flavour.",
+        "keywords": [
+          "Heineken", "Netherlands", "Amsterdam", "1873"
+        ],
+        "image": "beer-1.png",
+        "price": 31.99
+      },
+      {
+        "id": 2,
+        "brand": "Budweiser",
+        "size": "12x355ml btl",
+        "description": "For more than 133 years, the brewing process and the taste of Budweiser has remained unchanged. Budweiser has withstood the test of time and truly is the perfect combination of flavor and refreshment.",
+        "keywords": [
+          "Budweiser", "USA", "bottle", "1885"
+        ],
+        "image": "beer-2.png",
+        "price": 24.99
+      },
+      {
+        "id": 3,
+        "brand": "Corona Extra",
+        "size": "18x355ml",
+        "description": "The number one imported beer in the USA and Australia. Brewed in Mexico, it has been the number one selling beer for many years and is their leading export. Corona Extra is a pale lager with a mild, crisp, dry taste, a refreshing fruity palate. Corona Extra is commonly served with a wedge of lime or lemon in the neck of the bottle to add tartness and flavor.",
+        "keywords": [
+          "Corona", "Mexico", "mild", "crisp", "dry"
+        ],
+        "image": "beer-3.png",
+        "price": 44.99
+      },
+      {
+        "id": 4,
+        "brand": "Stella Artois",
+        "size": "12x330ml btl",
+        "description": "'The Star of Belgium' - Stella Artois is a full-flavoured premium lager with a hoppy aroma and a hint of fruitiness. The high quality is assured through a superior brewing process and by using the finest ingredients available.",
+        "keywords": [
+          "Stella Artois", "Belgium", "lager", "hoppy"
+        ],
+        "image": "beer-4.png",
+        "price": 28.99
+      },
+      {
+        "id": 5,
+        "brand": "Guinness Draught",
+        "size": "6x330ml btl",
+        "description": "Developed in 1959, this iconic beer is defined by harmony. Sip after sip, sweet counters bitter as the malt arrives on cue to complement a base of roasted barley. Just as the unmistakable white head sits flush atop the dark beer, so do the flavours counter and combine perfectly. Distinctively black. Velvety in its finish. Rich and creamy. Truly unique. Perfectly balanced.",
+        "keywords": [
+          "Guinness", "Ireland", "1959", "dark"
+        ],
+        "image": "beer-5.png",
+        "price": 22.99
+      },
+      {
+        "id": 6,
+        "brand": "Hoegaarden White",
+        "size": "4x330ml btl",
+        "description": "The Hoegaarden monks were the first to discover the unique recipe for wheat beer around 1445. Around 500 years of hard work went into making Hoegaarden White featuring the aroma of orange peel, coriander and herbs the merry monks imported from sunny Curacao.",
+        "keywords": [
+          "Hoegaarden", "Curacao", "Witbier", "White"
+        ],
+        "image": "beer-6.png",
+        "price": 16.99
+      },
+      {
+        "id": 7,
+        "brand": "Leffe Brune",
+        "size": "1x330ml btl",
+        "description": "Leffe Brune is an authentic abbey beer, brewed according to the traditional recipe of the Abbey of Leffe. Both its deep, dark brown colour and its full, slightly sweet flavour can be ascribed to the use of darkly roasted malt, making every sip just as exceptional as the last.",
+        "keywords": [
+          "Leffe", "Belgium", "1152", "Brown"
+        ],
+        "image": "beer-7.png",
+        "price": 7.99
+      },
+      {
+        "id": 8,
+        "brand": "Light Ice",
+        "size": "6x330ml btl",
+        "description": "A delicious drinking low alcohol beer designed to meet New Zealands changing cosmopolitan lifestyle. All responsible hosts should have some available for their guests.",
+        "keywords": [
+          "Light Ice", "New Zealand", "light"
+        ],
+        "image": "beer-8.png",
+        "price": 13.99
+      },
+      {
+        "id": 9,
+        "brand": "Lion Red",
+        "size": "24x330ml Btl",
+        "description": "Lion Red, the quintessential kiwi beer, began life as the Pale Ale from the Great Northern Brewery in 1907 – a great year for beer and an even better one for beer drinkers. Lion Red's full bodied, malt flavour balanced with a pleasant hop bitterness appeals to all beer drinkers. Enjoy this great Kiwi classic with typical Kiwi lamb dishes and steaks.",
+        "keywords": [
+          "Lion Red", "New Zealand", "Pale Ale"
+        ],
+        "image": "beer-9.png",
+        "price": 39.99
+      }
+    ]
+  }

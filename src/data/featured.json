@@ -1,0 +1,48 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "brand": "Heineken",
+        "size": "12x330ml btl",
+        "description": "Originally brewed in the Netherlands since 1873, Heineken is now the world's number one premium and most global beer brand. 100% pilsner malts are carefully blended with Europe's finest hops and the famous 'A' yeast, giving Heineken it's truly distinctive yet mild flavour.",
+        "keywords": [
+          "Heineken", "Netherlands", "Amsterdam", "1873"
+        ],
+        "image": "beer-1.png",
+        "price": 31.99
+      },
+      {
+        "id": 502,
+        "brand": "Johnnie Walker Red",
+        "size": "1L btl",
+        "description": "A unique blend of over 40 whiskies each chosen for its special contribution to the original recipe.",
+        "keywords": [
+          "Budweiser", "USA", "bottle", "1885"
+        ],
+        "image": "spirits-2.png",
+        "price": 45.99
+      },
+      {
+        "id": 407,
+        "brand": "St Hallett Blackwell Shiraz",
+        "size": "750ml btl",
+        "description": "As St Hallett's reserve Shiraz, Blackwell is big and bold. It exudes all the power and brooding density that the Barossa has to offer. A big, bold Shiraz bound to impress.",
+        "keywords": [
+          "Guinness", "Ireland", "1959", "dark"
+        ],
+        "image": "wine-7.png",
+        "price": 39.99
+      },
+      {
+        "id": 302,
+        "brand": "Rekorderlig Strawberry & Lime",
+        "size": "500ml btl",
+        "description": "Made from the purest Swedish spring water, Rekorderlig Strawberry - Lime Cider was the first to explore this unique flavour combination. Enjoy served over ice with fresh mint leaves or real strawberries and a wedge of lime for a fresh, zesty experience.",
+        "keywords": [
+          "Rekorderlig", "Sweden", "Strawberry", "Lime"
+        ],
+        "image": "cider-2.png",
+        "price": 6.99
+      }
+    ]
+  }

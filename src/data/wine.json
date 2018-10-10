@@ -1,0 +1,81 @@
+{
+    "products": [
+      {
+        "id": 401,
+        "brand": "Veuve Clicquot Brut",
+        "size": "750ml btl",
+        "description": "First, Yellow Label looks beautiful: golden-yellow, with a foaming necklace of tiny bubbles. Next it is so pleasing to the nose: initially reminiscent of white fruits and raisins, then of vanilla and later of brioche. Note the fine balance between the fruity aromas coming from the grape varieties and the toasty aromas following the ageing in the bottle. The first sip delivers all the freshness and forcefulness so typical of Yellow Label with a symphony of fruit tastes following on. Here is a true member of the powerful Brut family, well structured, admirably vinous. The lingering aromas echo and re-echo, with each fruit or spice note distinct. Veuve Clicquot Yellow Label manages to reconcile two opposing factors - forcefulness and finesse - and to hold them in perfect balance. This consistent power to please makes it ideal as an aperitif, and perfect as the Champagne to enjoy with a meal.",
+        "keywords": [
+          "Heineken", "Netherlands", "Amsterdam", "1873"
+        ],
+        "image": "wine-1.png",
+        "price": 79.99
+      },
+      {
+        "id": 402,
+        "brand": "G.H. Mumm Champagne NV",
+        "size": "750ml Btl",
+        "description": "An explosion of freshness in the mouth, followed by strong persistence. The complex aromas of fresh fruit and caramel perpetuate the intensity.",
+        "keywords": [
+          "Budweiser", "USA", "bottle", "1885"
+        ],
+        "image": "wine-2.png",
+        "price": 64.99
+      },
+      {
+        "id": 403,
+        "brand": "Trinity Hill Homage Syrah",
+        "size": "750ml btl",
+        "description": "This Syrah has fragrances of ripe red berry fruit complexed with mocha and licorice notes and dominant flavours of plum, blackberry, cherry and cassis.",
+        "keywords": [
+          "Corona", "Mexico", "mild", "crisp", "dry"
+        ],
+        "image": "wine-3.png",
+        "price": 129.99
+      },
+      {
+        "id": 404,
+        "brand": "St Hallett Old Block Shiraz",
+        "size": "750ml btl",
+        "description": "The colour of this wine is deep garnet red with a hint of violet, highly floral aromas with an infusion of menthol and pepper spice and dark chocolate and coffee entwined.",
+        "keywords": [
+          "Stella Artois", "Belgium", "lager", "hoppy"
+        ],
+        "image": "wine-4.png",
+        "price": 99.99
+      },
+      {
+        "id": 405,
+        "brand": "Huntaway Merlot Cabernet Sauvignon",
+        "size": "750ml btl",
+        "description": "Deep ruby in colour, this wine shows a rich and complex bouquet of dark plums, berry, cassis and spicy fruit. The palate is medium bodied with a core of ripe, spicy fruit enhanced with charry oak and shows exceptional length of flavour.",
+        "keywords": [
+          "Guinness", "Ireland", "1959", "dark"
+        ],
+        "image": "wine-5.png",
+        "price": 16.99
+      },
+      {
+        "id": 406,
+        "brand": "Morton Estate Hawke's Bay Merlot",
+        "size": "750ml btl",
+        "description": "Displaying aromatic dark plums and berry fruit on the nose. This Merlot is an elegantly structured wine with a generous palate, showcasing soft tannins and subtle mocha oak. Established in 1978, Morton has been producing exceptional varietal wines from New Zealand's renowned wine growing regions for almost 40 years.",
+        "keywords": [
+          "Guinness", "Ireland", "1959", "dark"
+        ],
+        "image": "wine-6.png",
+        "price": 20.49
+      },
+      {
+        "id": 407,
+        "brand": "St Hallett Blackwell Shiraz",
+        "size": "750ml btl",
+        "description": "As St Hallett's reserve Shiraz, Blackwell is big and bold. It exudes all the power and brooding density that the Barossa has to offer. A big, bold Shiraz bound to impress.",
+        "keywords": [
+          "Guinness", "Ireland", "1959", "dark"
+        ],
+        "image": "wine-7.png",
+        "price": 39.99
+      }
+    ]
+  }

@@ -1,0 +1,59 @@
+{
+    "products": [
+      {
+        "id": 201,
+        "brand": "Emerson's London Porter",
+        "size": "500ml btl",
+        "description": "From Emerson's Brewery, Dunedin. Porter is the oldest commercially brewed style. Dark, dry and mellow with some hop characteristics, it was the favourite tipple of London's porters. London Porter pours a deep brown colour with reddish hints, and the aroma is toasty, with a hint of sweetness and some earthy hop notes. Firm-bodied, but not heavy, with a creamy texture, the dryish palate is full of roasted malt, coffeeish notes and a sustained bitterness.",
+        "keywords": [
+          "Heineken", "Netherlands", "Amsterdam", "1873"
+        ],
+        "image": "craftbeer-1.png",
+        "price": 8.99
+      },
+      {
+        "id": 202,
+        "brand": "Little Creatures Pale Ale",
+        "size": "6x330ml btl",
+        "description": "From the Little Creatures Brewing Co, Fremantle this is a Pale Ale with bags of aroma, flavour and refreshing bitter characteristics. The infusion of the beer through a hopback full of whole hopflowers, results in clean, citrus flavour and distinct floral aroma. Classic American Pale Ale style.",
+        "keywords": [
+          "Budweiser", "USA", "bottle", "1885"
+        ],
+        "image": "craftbeer-2.png",
+        "price": 19.99
+      },
+      {
+        "id": 203,
+        "brand": "Mac's Sassy Red",
+        "size": "6x330ml BOP",
+        "description": "Mac's Sassy Red is a very complex beer. The essence lies in the sassy balance of saaz hops (that taste explosion at the back of your mouth) and the malt silkiness that glides over the palate. Named after its rich colour, Sassy Red balances five malts with a generous dose of Motueka hops for a profound ale experience.",
+        "keywords": [
+          "Corona", "Mexico", "mild", "crisp", "dry"
+        ],
+        "image": "craftbeer-3.png",
+        "price": 15.99
+      },
+      {
+        "id": 204,
+        "brand": "Emerson's 1812 Pale Ale",
+        "size": "6x330ml Btl",
+        "description": "From Emerson's Brewery, Dunedin. 1812 is one of New Zealand's first new generation pale ales and now something of a classic, Emerson's 1812 is all about balance. Medium bodied, the palate first offers a marmalade-like combination of ripe citrus and caramelised malts before resiny hops come to the fore and lead into a lingering dry finish.",
+        "keywords": [
+          "Emerson", "New Zealand", "Pale Ale"
+        ],
+        "image": "craftbeer-4.png",
+        "price": 24.99
+      },
+      {
+        "id": 205,
+        "brand": "Epic Hop Zombie",
+        "size": "500ml Btl",
+        "description": "Passionfruit, ripe mango, pink guava, very pale colour.",
+        "keywords": [
+          "Epic Hop", "New Zealand", "Pale"
+        ],
+        "image": "craftbeer-5.png",
+        "price": 11.99
+      }
+    ]
+  }

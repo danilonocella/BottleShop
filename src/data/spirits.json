@@ -1,0 +1,59 @@
+{
+    "products": [
+      {
+        "id": 501,
+        "brand": "Gordons",
+        "size": "1L btl",
+        "description": "Gordon's Gin is zesty, clean and dry on the palate with a long, full juniper finish.",
+        "keywords": [
+          "Heineken", "Netherlands", "Amsterdam", "1873"
+        ],
+        "image": "spirits-1.png",
+        "price": 41.99
+      },
+      {
+        "id": 502,
+        "brand": "Johnnie Walker Red",
+        "size": "1L btl",
+        "description": "A unique blend of over 40 whiskies each chosen for its special contribution to the original recipe.",
+        "keywords": [
+          "Budweiser", "USA", "bottle", "1885"
+        ],
+        "image": "spirits-2.png",
+        "price": 45.99
+      },
+      {
+        "id": 503,
+        "brand": "Smirnoff 1L",
+        "size": "1L btl",
+        "description": "This is New Zealand's and the world's number one international vodka brand. Try it neat, in cocktails or mixed with soda or fruit juice.",
+        "keywords": [
+          "Corona", "Mexico", "mild", "crisp", "dry"
+        ],
+        "image": "spirits-3.png",
+        "price": 41.99
+      },
+      {
+        "id": 504,
+        "brand": "Jose Cuervo Especial",
+        "size": "700ml btl",
+        "description": "Jose Cuervo is the #1 selling tequila in the world better know as Cuervo Gold. It has a hint of sweetness and a rich well-balanced character of oak, spice and vanilla tones. Jose Cuervo Especial is a Reposado (rested) tequila and is aged in American oak barrels for 4-6 months. The world's leading brand of premium tequila. Jose Cuervo Especial gets its distinctive golden colour and smooth mellow taste from resting in oak casks. Drink neat, on the rocks or the base for a wonderful Margarita.",
+        "keywords": [
+          "Stella Artois", "Belgium", "lager", "hoppy"
+        ],
+        "image": "spirits-4.png",
+        "price": 41.99
+      },
+      {
+        "id": 505,
+        "brand": "Bacardi Oakheart 1L",
+        "size": "1000ml btl",
+        "description": "Bacardi Oakheart is a bold, spiced rum that gets its robust flavour by fermenting in charred oak barrels. Rich and oaky on the nose, with hints of smoke and dried fruit, this exceptional spiced rum has a robust flavour that sthands up to any challenge.",
+        "keywords": [
+          "Guinness", "Ireland", "1959", "dark"
+        ],
+        "image": "spirits-5.png",
+        "price": 42.99
+      }
+    ]
+  }

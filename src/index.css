@@ -1,0 +1,125 @@
+/* 
+#ee7421
+#b4e1ed
+#123f6d
+*/
+@import url('https://fonts.googleapis.com/css?family=Arvo');
+
+body {
+  font-family: 'Arvo', sans-serif;
+}
+
+/*pushes the footer to the bottom of the page */
+.site {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.site-content {
+  flex: 1 0 auto;
+  padding: var(--space) var(--space) 0;
+  width: 100%;
+}
+
+.action-button{
+  border-radius: 50%!important;
+  margin: 0 2px;
+}
+
+
+.navbar-logo{
+  height: 80px;
+}
+
+.navbar-nav .nav-link {
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+.cart-pill{
+  display: flex;
+  align-items: center;
+  margin-left: 5px;
+}
+
+footer {
+  background-color: #123f6d;
+  color: #fff;
+  padding-top: 2rem;
+  text-align: center;
+
+}
+
+.social-links{
+  margin: 2em 0;
+}
+
+.social-links a{
+  color: #ddd;
+  font-size: 40px;
+  margin: 0 20px;
+}
+
+.padding {
+  padding-bottom: 1rem;
+}
+
+.main-content{
+  width: 80%;
+  margin: 0 auto;
+}
+
+table {
+  width: 100%;
+}
+
+th, tr {
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+}
+td {
+  padding: 2rem 0;
+}
+
+
+.product-listing{
+  display: flex!important;  
+}
+
+.list-item{
+  width: 30%;  
+  margin: 5% 1%;
+  padding: 15px 10px;
+  border: 2px solid transparent;  
+  display: flex!important;
+}
+
+.list-item:hover {
+  border: 2px solid #ddd;  
+  border-radius: 7px;
+ 
+}
+
+
+
+.col-left{
+  width: 60%;
+  position: relative;
+  text-align: center;
+  padding: 5% 0;
+}
+
+.col-right{
+  width: 40%;
+}
+.col-right img{
+	margin: auto;
+	display: block;
+}
+
+.item-buttons{
+  position: absolute;
+  bottom: 0;
+  right: 22.5%;
+}
+
